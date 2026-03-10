@@ -1,1 +1,11 @@
-Update Will Coom Soon!
+{
+  "version": "0.1.0",
+  "notes": "Initial Release - No new updates yet!",
+  "pub_date": "2026-03-10T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "PLACEHOLDER",
+      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases"
+    }
+  }
+}
