@@ -4,8 +4,8 @@
   "pub_date": "2026-03-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PASTE_YOUR_NOTEPAD_SIG_TEXT_HERE",
-      "url": "PASTE_YOUR_GITHUB_ZIP_DOWNLOAD_LINK_HERE"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3d2TjE4K3dNNjhUbGxlN0huSG95bDYzMlJIcys5Y1gxTFhOUCtxck52YTloc2xYOVNta3E0djhRSllHWGhOa2VVQ2pzODZRYkp5TXE1cWx3aFR3TnhiTG9Fd3hRTGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMjY2NzU4CWZpbGU6QXV0b3ZlcnNlIEh1Yl8wLjIuMF94NjRfZW4tVVMubXNpCm10MEJ2VEFGY3ZVcEQxUWkvZG1xWFduQ3FHYnNIODZWVmxSL3dQT3c2L2NObHVzQVJ4NythQVN4U1BSUmQvcUlEbHpNOGtLYlk3VFlJcmx3RmZyUUNnPT0K",
+      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases/download/v0.2.0/Autoverse.Hub_0.2.0_x64_en-US.msi"
     }
   }
 }
