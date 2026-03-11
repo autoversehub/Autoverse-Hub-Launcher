@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Initial Release - No new updates yet!",
-  "pub_date": "2026-03-10T12:00:00Z",
+  "version": "0.2.0",
+  "notes": "Read The Changelog!!",
+  "pub_date": "2026-03-12T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PLACEHOLDER",
-      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases"
+      "signature": "PASTE_YOUR_NOTEPAD_SIG_TEXT_HERE",
+      "url": "PASTE_YOUR_GITHUB_ZIP_DOWNLOAD_LINK_HERE"
     }
   }
 }
