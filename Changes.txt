@@ -1,2 +1,10 @@
-> INITIAL RELEASE
-- More Updates Will Come Soon!
+> VERSION 0.2.0
+
+- Added New Features
+- Added Chatting Feature, That lets you chat with the Dev! itself for any help or suggestion! 
+- Added New Gui Style
+- Fixed The Scroll Wheel Issue
+- Added Online Count Feature, That Tells How Many Current Users Are Using The Application
+- Added Dev Online Feature, Which Lets You Know That Is The Dev Is Currently Online! With a Notification Popup Sound!
+- Added Every Application We Made So Far
+- BeamNG Converter is Currently Under Work, We Will Fix This!
