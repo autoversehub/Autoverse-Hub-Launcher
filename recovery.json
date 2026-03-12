@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3d2TjE4K3dNNjdqeDJKZGJBMEVhaDNwZkhHdG9oRXFDVkpQLzZocitLNmtVM3lQTjF4U3k3UWhSMzlDc25TUWFyL0ZtSW1xMmxQczZPOXJlY2w2UGFycGZzdGFFbmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczMzQ4MzU3CWZpbGU6QXV0b3ZlcnNlIEh1Yl8wLjQuMF94NjRfZW4tVVMubXNpCjBnRnVLeVNBTmlZTDRJNmRYUE9DVXNDNWs5MUhsUG1aS1BMRFo5dTNtTXVrTFRpcFpqZWt0bTNTcmxpQjNvYjRMSXBqOEFHN1hvWHlkMWFXQThSVENnPT0K",
-      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases/download/v0.4.0/Autoverse.Hub_0.4.0_x64_en-US.7z"
+      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases/download/v0.4.0/Autoverse.Hub_0.4.0_x64_en-US.msi"
     }
   }
 }
