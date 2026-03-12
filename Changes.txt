@@ -11,3 +11,4 @@
 - Fixed Few Bugs 
 - Added Online Tic-Tac-Toe Game!
 - Changed the GUI Style of the News 
+- Improved The Autoverse Connect 
