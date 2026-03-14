@@ -1,14 +1,6 @@
-> VERSION 0.5.0
+> VERSION 0.6.0
 
-- Added New Features - in Version v.0.4.0
-- Fixed The Minimize Issue - in Version v.0.4.0
-- Fixed The Drag Issue - in Version v.0.4.0
-- Fixed The Full-Screen Issue - in Version v.0.4.0
-- Added Autoverse Connect Chat Application - in Version v.0.4.0
-- Few Small Bug Fixes - in Version v.0.4.0
-- Added New FX Sounds - in Version v.0.4.0
-- Added a News Channel Where everyone can see what i post - in Version v.0.4.0
-- Fixed Few Bugs 
-- Added Online Tic-Tac-Toe Game!
-- Changed the GUI Style of the News 
-- Improved The Autoverse Connect 
+- Fixed Some Bugs
+- Added Motion Blur
+- Fixed The Tic-Tac-Toe Where You Can Play as both 
+- Fixed The Autoverse Connect - Sometime It had a hard time To Connect 
