@@ -1,6 +1,12 @@
-> VERSION 0.6.0
+> VERSION 0.7.0
 
-- Fixed Some Bugs
-- Added Motion Blur
-- Fixed The Tic-Tac-Toe Where You Can Play as both 
-- Fixed The Autoverse Connect - Sometime It had a hard time To Connect 
+- Fixed Some Bugs Again
+- Added Weather Time - If it's raining & Snow in your area a rain sound will play with a Rain Effect background 
+- Added Local Time - Shows Your Current Timer 
+- Organized The Apps
+- Improved The Autoverse Connector 
+- Added Volume Slider For The Music
+- Added Slowed Version Of The Music 
+- Added New Games
+- Added Private Local Note - Where You Can Add Your Own Notes And Stuff!
+- Added AO Bake Application - But Still Needs Improvements
