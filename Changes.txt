@@ -2,5 +2,6 @@
 
 - Fixed Some Bugs Again
 - Added Photo Wall
+- Added Current Version Viewer - Now You Can See What Version You Are Using
 - Added Ao Bake Application - ( Still Under Construction )
 - Improved Autoverse Connect
