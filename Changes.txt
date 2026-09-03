@@ -1,6 +1,6 @@
-> VERSION 0.8.2
+> VERSION 0.8.3
 
-- Fixed Some Bugs Again
-- Added New Game
+- Added Ao Bake
 - Added New UI
-- Added New UI Sounds ( Fully New )
+- Added Hover Sound
+- Fixed Few More Bugs
