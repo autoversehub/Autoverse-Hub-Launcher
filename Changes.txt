@@ -6,3 +6,4 @@
 - Fixed The AO Bake Time & Improved
 - Added New Button Hover Feature
 - Fixed The Display Issue when launching the app always caused the Display Scale To Open
+- Added FBX & GLB Support For the UV Generator
