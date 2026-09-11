@@ -3,3 +3,4 @@
 - Fixed The UV Generator Crash
 - Fixed The AC importer Timer & Improved 
 - Added New Button Hover Feature
+- Fixed The Display Issue when launching the app always caused the Display Scale To Open
