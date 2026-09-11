@@ -1,5 +1,5 @@
-> VERSION 0.8.4
+> VERSION 0.8.5
 
-- Added UV Generator 
-- Added New Game
-- Fixed Few More Bugs
+- Fixed The UV Generator Crash
+- Fixed The AC importer Timer & Improved 
+- Added New Button Hover Feature
