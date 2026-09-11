@@ -1,11 +1,11 @@
 {
-  "version": "0.8.4",
+  "version": "0.8.5",
   "notes": "Read The System Changelog!!",
-  "pub_date": "2026-09-09T11:00:00Z",
+  "pub_date": "2026-09-11T11:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3d2TjE4K3dNNng5T0ZBV0wwanB1MHdvOHowa1B3bVJqR3A2ems3eEVTeHd1cGZvdHd6Y2xiQk9XcGlnQXh1L25SUTBEeENMb2FnUCs5Yk41SGh2NWk3N05zYTFoTVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTE1NzA3CWZpbGU6QXV0b3ZlcnNlIEh1Yl8wLjguNF94NjRfZW4tVVMubXNpClhmMGdqdFVMdXlGaGJyZExxTTUvdDFTbUZSUStXL0xsV1hNc1F4bTd1VFVBOExyVHNxTlhlclVIdFloUlhFZTkyTDIyUTlONlVtd2hJeE5CUXZ2Y0FnPT0K",
-      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases/download/v0.8.4/Autoverse.Hub_0.8.4_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTb3d2TjE4K3dNNjR6L25La1JqNHExQ2dTL2pFblEzWU9WbmZmWEhJQkpwcXl1L3N5NGsxZk1zTWk3dzNwa0N1SzVpbUd4SFlvbEZEUUlINFdLKzZFRXZnOFBndy8xM0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQyOTYxCWZpbGU6QXV0b3ZlcnNlIEh1Yl8wLjguNV94NjRfZW4tVVMubXNpCmMxSy9iSCtIZ0RxQzRNbHhRVFdZUm9HY0tNM2oxTDlpYkRsMVlMaHFFWWFXYnRuT3hxVUtCTnk0Z3R2bVM4R3BkQ05wMy9qYUljTERkRGFRMVY3K0FnPT0K",
+      "url": "https://github.com/autoversehub/Autoverse-Hub-Launcher/releases/download/v0.8.5/Autoverse.Hub_0.8.5_x64_en-US.msi"
     }
   }
 }
