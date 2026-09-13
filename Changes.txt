@@ -4,3 +4,4 @@
 - Fixed The AC importer Timer & Improved Again
 - Added Gta 5 Import 
 - Fixed The AO Bake Time & Improved
+- Added Batch Convert Support For Assetto Corsa Importer Which Converts multiple .kn5 files into 1 GLB or FBX
