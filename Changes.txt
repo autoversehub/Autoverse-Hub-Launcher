@@ -1,7 +1,9 @@
-> VERSION 0.8.6
+> VERSION 0.9.0
 
-- Fixed AO Bake Linking Issue
-- Fixed The AC importer Timer & Improved Again
-- Added Gta 5 Import 
-- Fixed The AO Bake Time & Improved
-- Added Batch Convert Support For Assetto Corsa Importer Which Converts multiple .kn5 files into 1 GLB or FBX
+- Fixed The AC Timing Issues & Huge Track Timing
+- Fixed The Gta 5 Linking Issue
+- Fixed The AO bake Linking Issue
+- Fixed Few More Bugs
+- Fixed The Server Read/Write Issue Which Caused high Demand of usage
+- Added Gta San Import
+- Added RFactor Import
