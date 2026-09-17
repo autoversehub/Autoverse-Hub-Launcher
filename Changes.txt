@@ -1,47 +1,20 @@
 > version 0.9.1
 
-[ autoverse hub - build 0.9.1 ]
+Currently The 3d Previewer Is Under Work and being Improved
 
-- beamng import — import .dae models from beamng, with .jbeam
-  support. textures auto-matched. export to glb / fbx / obj.
-- ams2 / project cars import — native bff archive parsing. reads
-  meb meshes + mtx materials directly from loose mod files. full
-  texture support. export to glb / fbx / obj.
-- wreckfest importer — native .scne / .vhcl parser built in. no
-  external tools needed — pick a mod folder and import. export to
-  glb / fbx / obj.
-- carx drift importer — works with extracted unity assets (fbx / obj /
-  glb / dae) from assetripper or assetstudio. materials rebuilt with
-  name-matched textures. export ready.
-- gta san andreas importer — import .dff cars with .txd textures via
-  dragonff. collision (.col) cleanup tool included. export to glb /
-  fbx / obj.
-
-> new exporter
-- fivem vehicle packager — package your vehicles into a ready-to-use
-  fivem stream resource. drop-in, no manual meta editing.
-
-> new tool
-- roblox triangle splitter — the community's most requested tool!
-  automatically splits any mesh over roblox's 20k triangle limit
-  into clean, position-preserved parts. no more shading errors.
-  adjustable limit slider + live 3d preview.
-
-> fixes & improvements
-- dds converter upgrade — now converts to png, jpeg (with quality
-  slider) and webp. webp is 30-50% smaller than png. batch friendly.
-- crash-proof model loading — corrupt or half-written model files no
-  longer crash the app. failed files are marked per-row while the
-  rest of your batch keeps converting.
-- smarter crash overlay — recoverable errors now show as a small
-  banner instead of the full red takeover screen. your session
-  survives.
-- ac kn5 converter error reporting — real converter error messages
-  now shown instead of cryptic exit codes (helps on custom windows
-  builds).
-- tab open animations 
+- beamng import
+- ams2 / project cars import 
+- wreckfest importer 
+- carx drift importer
+- gta san andreas importer  >> Improved
+- ETS2 & ATS Truck Importer
+- Forza Horizon Importer
+- fivem vehicle packager
+- roblox triangle splitter - automatically splits any mesh over roblox's 20k triangle limit  into clean, position-preserved parts. no more shading errors.
+- dds converter upgrade — now converts to png, jpeg
+  banner instead of the full red takeover screen. 
+- ac kn5 converter error reporting
+- tab open animations
 - license verification via the updated server.
-
-> assetto corsa textures
 - fixed texture detection for cars using a "texture" / "texture2"
   livery folder.
