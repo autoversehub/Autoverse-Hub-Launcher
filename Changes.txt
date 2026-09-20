@@ -1,20 +1,15 @@
-> version 0.9.1
+> version 0.9.2
 
-Currently The 3d Previewer Is Under Work and being Improved
-
-- beamng import
-- ams2 / project cars import 
-- wreckfest importer 
-- carx drift importer
-- gta san andreas importer  >> Improved
-- ETS2 & ATS Truck Importer
-- Forza Horizon Importer
-- fivem vehicle packager
-- roblox triangle splitter - automatically splits any mesh over roblox's 20k triangle limit  into clean, position-preserved parts. no more shading errors.
-- dds converter upgrade — now converts to png, jpeg
-  banner instead of the full red takeover screen. 
-- ac kn5 converter error reporting
-- tab open animations
-- license verification via the updated server.
-- fixed texture detection for cars using a "texture" / "texture2"
-  livery folder.
+- 3d Previewer Has Been Fixed!
+- Added TRI Number Which will appear after you import a car and tells you how many TRI is the model!
+- Fixed The Tic-Tac-Toe Bugs
+- Fixed The Speed-Typer Game Copy & Paste Bug
+- Added a custom Cursor
+- Fixed The Laggy Issue When Scrolling
+- Added Performance Improvements for Low End PC
+- Finally Categorized The Paid & Free Apps So People Would not get Confused
+- Overall UI Improvement 
+- Added Live For Speed Importer
+- Added Model Optimizer Which Lowers Your Model TRI
+- Finally Fixed The Annoying " Sponsor Ad " On Top Which Kept Appearing Everytime You Open It, Now once you close it With the " X " Button it will stay hidden for 7 Days! if you do not want to see it any longer
+- Etc....
