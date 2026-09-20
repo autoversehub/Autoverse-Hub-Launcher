@@ -12,4 +12,5 @@
 - Added Live For Speed Importer
 - Added Model Optimizer Which Lowers Your Model TRI
 - Finally Fixed The Annoying " Sponsor Ad " On Top Which Kept Appearing Everytime You Open It, Now once you close it With the " X " Button it will stay hidden for 7 Days! if you do not want to see it any longer
+- Gta San / III / VC Importer Became Free For Everyone!
 - Etc....
