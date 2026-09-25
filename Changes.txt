@@ -3,4 +3,4 @@
 - Added Sound Converter 
 - Added CarX Importer
 - Added Assetto Corsa EVO Importer
-- Crew Motorfest Importer
+- Added Crew Motorfest Importer
