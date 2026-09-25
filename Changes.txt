@@ -1,3 +1,6 @@
-> version 0.9.4
+> version 0.9.5
 
-- Fixed Few More Bugs & Improvements
+- Added Sound Converter 
+- Added CarX Importer
+- Added Assetto Corsa EVO Importer
+- Crew Motorfest Importer
