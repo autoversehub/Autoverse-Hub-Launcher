@@ -1,6 +1,4 @@
-> version 0.9.5
+> version 0.9.6
 
-- Added Sound Converter 
-- Added CarX Importer
-- Added Assetto Corsa EVO Importer
-- Added Crew Motorfest Importer
+- Fixed Few Bugs For Membership Users
+- Added BUSSID ( Bus Simulator Indonesia ) Importer
