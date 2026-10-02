@@ -9,3 +9,4 @@
 - Added Bank File Which Let's You Open And Preview Sounds Let's You Open .bank file and Gta 5 sounds too!
 - Fixed The Updater! It Left The installer without deleting it after!
 - Added New Cursor
+- Added Suggestion Forum!
