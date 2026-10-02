@@ -1,4 +1,9 @@
-> version 0.9.6
+> version 0.9.7
 
-- Fixed Few Bugs For Membership Users
-- Added BUSSID ( Bus Simulator Indonesia ) Importer
+- Fixed Few Bugs For The Assetto Corsa
+- BUSSID Become Free!
+- Fixed The " Zoom " Display!
+- Fixed The Rain Effect
+- Added Video Downloader Let's You Download From More Than 1800+ Sites
+- Added New Feature For Image Converter Supporting More!
+- Added Bank File Which Let's You Open And Preview Sounds Let's You Open .bank file and Gta 5 sounds too!
