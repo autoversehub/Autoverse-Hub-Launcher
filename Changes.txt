@@ -7,3 +7,4 @@
 - Added Video Downloader Let's You Download From More Than 1800+ Sites
 - Added New Feature For Image Converter Supporting More!
 - Added Bank File Which Let's You Open And Preview Sounds Let's You Open .bank file and Gta 5 sounds too!
+- Fixed The Updater! It Left The installer without deleting it after!
