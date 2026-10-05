@@ -1,3 +1,5 @@
 > version 0.9.8
 
 - Bugs Fix & Improvemens
+- Fixed The BeamNG Converter
+- Added Logs Users Can now see what may Cause Errors
