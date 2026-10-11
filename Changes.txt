@@ -5,3 +5,4 @@
 - Added Sound Kit Manager
 - Added Farming Simulator Importer
 - Added OMSI Importer
+- Added BeamNG Encryption Protection
