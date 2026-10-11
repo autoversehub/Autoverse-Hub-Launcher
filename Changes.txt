@@ -1,5 +1,7 @@
-> version 0.9.8
+> version 1.0.0
 
-- Bugs Fix & Improvemens
-- Fixed The BeamNG Converter
-- Added Logs Users Can now see what may Cause Errors
+- Bugs Fix & Improvements
+- Fixed The BeamNG Converter 
+- Added Sound Kit Manager
+- Added Farming Simulator Importer
+- Added OMSI Importer
