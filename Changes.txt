@@ -1,8 +1,10 @@
-> version 1.0.0
+> version 1.0.3
 
 - Bugs Fix & Improvements
-- Fixed The BeamNG Converter 
-- Added Sound Kit Manager
-- Added Farming Simulator Importer
-- Added OMSI Importer
-- Added BeamNG Encryption Protection
+- Fixed The BeamNG Converter
+- Added Auto Material Connect Feature For BeamNG
+- Fixed The Assetto Corsa Merge For GLB
+- Fixed merged GLB files rendering as see-through (grass, trees, billboards, crowd)
+- Improved model shading
+- Fixed The Temp Issue where after converting it still leaves Temp files on the Device
+- Fixed The Suggestion Forum where people could not submit anything
