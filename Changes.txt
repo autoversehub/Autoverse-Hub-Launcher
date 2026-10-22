@@ -9,3 +9,4 @@
 - You Can Just Verify In Settings! If You Have An Subscription! 
 - Added Startup & System Tray! Now You Can Just Leave the App minimized And let it run! in the background
 - Added a New Theme
+- Added Error Report Feature! Which will send any errors that would happen to the Dev Without you having to DM!
