@@ -1,10 +1,10 @@
-> version 1.0.3
+> version 1.0.4
 
 - Bugs Fix & Improvements
-- Fixed The BeamNG Converter
-- Added Auto Material Connect Feature For BeamNG
-- Fixed The Assetto Corsa Merge For GLB
-- Fixed merged GLB files rendering as see-through (grass, trees, billboards, crowd)
-- Improved model shading
-- Fixed The Temp Issue where after converting it still leaves Temp files on the Device
-- Fixed The Suggestion Forum where people could not submit anything
+- Fixed The Assetto Corsa Errors
+- Fixed The Assetto Corsa Import Time
+- Added Windows PC Optimizer 
+- Added SnowRunner & MudRunner Importer
+- Added New Settings Button! And Moved Everything There
+- You Can Just Verify In Settings! If You Have An Subscription! 
+- Added a New Theme
