@@ -7,4 +7,5 @@
 - Added SnowRunner & MudRunner Importer
 - Added New Settings Button! And Moved Everything There
 - You Can Just Verify In Settings! If You Have An Subscription! 
+- Added Startup & System Tray! Now You Can Just Leave the App minimized And let it run! in the background
 - Added a New Theme
