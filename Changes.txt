@@ -1,4 +1,4 @@
-> version 1.0.4
+> version 1.0.41
 
 - Bugs Fix & Improvements
 - Fixed The Assetto Corsa Errors
@@ -11,3 +11,12 @@
 - Added a New Theme
 - Added Error Report Feature! Which will send any errors that would happen to the Dev Without you having to DM!
 - You Can Now Also Change Where Does Temp Files & Imported Models are Converted If Your C: Drive is Full!
+
+>> version 1.0.41 
+- Quick Bug Fix
+- Improvements
+- UI Fix For the windows optimzier
+- Removed Dangerous Tweaks which may cause issues on some devices
+- Improved the Error Report
+- Improved The Assetto Corsa 
+- Improved The BeamNG 
