@@ -25,3 +25,6 @@
 
 >> version 1.0.42
 - Quick Fix
+
+>> version 1.0.43
+- Bug Fixes & Improvements
