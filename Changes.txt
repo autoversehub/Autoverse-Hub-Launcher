@@ -22,3 +22,6 @@
 - Improved The BeamNG 
 - Added 2 New Languages
 - Added Test My Setup Which Checks if you are missing anything to use the Imports & Etc..
+
+>> version 1.0.42
+- Quick Fix
