@@ -20,3 +20,4 @@
 - Improved the Error Report
 - Improved The Assetto Corsa 
 - Improved The BeamNG 
+- Added 2 New Languages
