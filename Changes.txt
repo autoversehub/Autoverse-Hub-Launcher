@@ -21,3 +21,4 @@
 - Improved The Assetto Corsa 
 - Improved The BeamNG 
 - Added 2 New Languages
+- Added Test My Setup Which Checks if you are missing anything to use the Imports & Etc..
