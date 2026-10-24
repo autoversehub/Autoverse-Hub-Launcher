@@ -1,30 +1,5 @@
-> version 1.0.40
+> version 1.0.44
 
-- Bugs Fix & Improvements
-- Fixed The Assetto Corsa Errors
-- Fixed The Assetto Corsa Import Time
-- Added Windows PC Optimizer 
-- Added SnowRunner & MudRunner Importer
-- Added New Settings Button! And Moved Everything There
-- You Can Just Verify In Settings! If You Have An Subscription! 
-- Added Startup & System Tray! Now You Can Just Leave the App minimized And let it run! in the background
-- Added a New Theme
-- Added Error Report Feature! Which will send any errors that would happen to the Dev Without you having to DM!
-- You Can Now Also Change Where Does Temp Files & Imported Models are Converted If Your C: Drive is Full!
-
->> version 1.0.41 
-- Quick Bug Fix
-- Improvements
-- UI Fix For the windows optimzier
-- Removed Dangerous Tweaks which may cause issues on some devices
-- Improved the Error Report
-- Improved The Assetto Corsa 
-- Improved The BeamNG 
-- Added 2 New Languages
-- Added Test My Setup Which Checks if you are missing anything to use the Imports & Etc..
-
->> version 1.0.42
-- Quick Fix
-
->> version 1.0.43
-- Bug Fixes & Improvements
+- Bug Fix & Improvements
+- Fixed The Assetto Corsa which caused Shading Error In Blender
+- Fixed The Malware Detect ( False Positive )
