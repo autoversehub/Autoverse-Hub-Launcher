@@ -1,5 +1,10 @@
-> version 1.0.44
+> version 1.0.47
 
-- Bug Fix & Improvements
-- Fixed The Assetto Corsa which caused Shading Error In Blender
-- Fixed The Malware Detect ( False Positive )
+
+- New: Import Probe — read any file's header, byte order and hex, then copy a report
+- New: rFactor 2 / Le Mans Ultimate .mas and RaceRoom .gmt import without extra tools
+- New: Turntable export — 4, 8 or 12 angles, zipped
+- New: files are matched by their header, not their extension
+- New: Forza Motorsport and Midnight Club: LA files are read or explained instead of failing
+- Fixed: a taken name can no longer lock the welcome screen
+- Fixes & performance improvements
