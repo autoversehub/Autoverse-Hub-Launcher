@@ -1,3 +1,9 @@
+> version 1.0.50
+
+- Performance: the online counter now asks the server for a count instead of downloading every player's presence, so the hub reads far fewer database documents
+- Performance: who's online details refresh every 5 minutes and only while the window is visible
+- Fixes & performance improvements
+
 > version 1.0.49
 
 - Performance: model previews redraw at 30fps and at a slightly lower resolution on high-DPI screens, so a parked car no longer keeps your GPU busy
