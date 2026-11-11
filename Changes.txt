@@ -1,3 +1,10 @@
+> version 1.0.49
+
+- Performance: model previews redraw at 30fps and at a slightly lower resolution on high-DPI screens, so a parked car no longer keeps your GPU busy
+- Performance: the ambient wash no longer animates behind the glass panels, and the panels blur less — the hub now draws far less of your GPU while it is open
+- PC Optimizer: the undo .bat is written as soon as the screen opens, before anything is applied
+- Fixes & performance improvements
+
 > version 1.0.47
 
 
