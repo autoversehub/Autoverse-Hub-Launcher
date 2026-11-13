@@ -1,3 +1,12 @@
+> version 1.0.54
+
+- Fixed: the Developer Dashboard no longer disappears after a reinstall or when the online database hits its daily limit — the hub now recognises your PC's hardware ID as well as your account, so admin access comes back on its own
+- New: Settings → Account shows an Admin check line that says exactly why the dashboard is on or off — signed in but not on the admin list, the database read failed, or this is a different machine
+- New: Developer Dashboard → Overview has an Enrol this PC card — it shows your account ID, copies the one-line command that adds it to the admin list, and turns green by itself the moment it goes through
+- New: notices in the bottom corner tell you when the admin list changes, when someone is banned or unbanned, and when the sponsor/ads settings are edited — changes made on another PC or by another admin appear while the app is open
+- Performance: those live notices ride connections the hub already holds, so they cost no extra database reads
+- Fixes & performance improvements
+
 > version 1.0.53
 
 - Fixed: the developer dashboard no longer vanishes when the database hits its daily limit — the app remembers that you are the admin instead of dropping the panel
