@@ -1,3 +1,9 @@
+> version 1.0.52
+
+- New: Settings now asks for the email you bought with on lava.top — use the same address you paid with, that is how a renewal gets matched to your account
+- New: the License Manager shows every member's purchase email and searches by it, so a receipt can be traced back to the right person
+- Fixes & performance improvements
+
 > version 1.0.51
 
 - Performance: the hub checks in with the server far less often while the window is minimised or in the background, so it uses a fraction of the database reads it used to
