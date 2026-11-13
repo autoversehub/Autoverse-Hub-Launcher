@@ -1,3 +1,11 @@
+> version 1.0.51
+
+- Performance: the hub checks in with the server far less often while the window is minimised or in the background, so it uses a fraction of the database reads it used to
+- Performance: the dev dashboard reloads the registered user list only when you open it, return to the window, or press Refresh
+- Performance: announcements refresh every 10 minutes instead of holding a live connection open
+- License Manager: every tool is listed by name, including Assetto Corsa EVO, The Crew Motorfest and Bus Simulator Indonesia
+- Fixes & performance improvements
+
 > version 1.0.50
 
 - Performance: the online counter now asks the server for a count instead of downloading every player's presence, so the hub reads far fewer database documents
