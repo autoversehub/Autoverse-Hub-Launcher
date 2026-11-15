@@ -1,3 +1,10 @@
+> version 1.0.55
+
+- Fixed: the AO baker no longer sits on "Loading …" forever when a model fails to load — it now says which file could not be opened and why, and gives up after 45 seconds instead of waiting indefinitely
+- New: the GTA importer takes .zip and .oiv mods as well as .rpf — the archive is unpacked for you and the right folder is found automatically, no manual extraction step
+- New: pick a folder of loose .yft and .ytd files and the importer reads the cars straight off disk — works with FiveM resources and any addon you have already unpacked, and needs no archive and no CodeWalker engine
+- Fixes & performance improvements
+
 > version 1.0.54
 
 - Quick Fix
