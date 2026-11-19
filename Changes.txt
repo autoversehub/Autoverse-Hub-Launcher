@@ -1,3 +1,10 @@
+> version 1.0.56
+
+- Fixed: the DDS converter no longer reports Failed on DDS textures it used to reject — BC7, BC4, BC5 and the other common DirectX formats now convert to PNG instead of stopping at the unsupported-format error
+- New: Settings offers Copy login link while a Discord login is open, so the sign-in can be finished in whichever browser you actually use
+- Fixed: closing the Discord login window clears its spinner and message instead of leaving the button stuck on Linking
+- Fixes & performance improvements
+
 > version 1.0.55
 
 - Fixed: the AO baker no longer sits on "Loading …" forever when a model fails to load — it now says which file could not be opened and why, and gives up after 45 seconds instead of waiting indefinitely
