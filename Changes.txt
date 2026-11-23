@@ -1,3 +1,10 @@
+> version 1.0.57
+
+- New: both converters take a whole folder now — Add folder… in the Image Converter queues every image inside a folder and its subfolders, and Add a whole folder… in the DDS Converter does the same for .dds textures, so a texture dump no longer has to be picked file by file
+- New: textures that share a file name in different folders are kept apart when they are saved (diffuse.png and diffuse (2).png), instead of one overwriting the other
+- Fixed: textures saved from the converters and from Export textures come out in the colours you see on the model — the save was reading DDS files with a different reader from the preview, which could change the colours on the way out; BC7, BC4, BC5 and unusually sized DDS files used to be skipped there and now save too
+- Fixes & performance improvements
+
 > version 1.0.56
 
 - Fixed: the DDS converter no longer reports Failed on DDS textures it used to reject — BC7, BC4, BC5 and the other common DirectX formats now convert to PNG instead of stopping at the unsupported-format error
